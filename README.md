@@ -18,29 +18,6 @@
 </p>
 
 ## Table of Contents
-
-- [Project Walk-Through](#project-walk-through)
-  - [Landing Page](#landing-page)
-  - [Sign-in Page](#sign-in-page)
-  - [Sign-up Page](#sign-up-page)
-  - [Home Page](#home-page)
-  - [Profile Page](#profile-page)
-  - [Public Profile Page](#public-profile-page)
-  - [Profile Edit Page](#profile-edit-page)
-  - [Post Page](#post-page)
-  - [New Post Page](#new-post-page)
-  - [New Comment Page](#new-comment-page)
-  - [New Message Page](#new-message-page)
-- [Live Demo](#live-demo)
-- [Technology Used](#technology-used)
-- [How To Use](#how-to-use)
-- [Show Your Support](#show-your-support)
-- [Acknowledgments](#acknowledgments)
-- [License](#license)
-
-
-
-
 # Project Walk-Through
 
 # Landing page
